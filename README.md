@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Hi, I'm Javad Dehghan
 
-<!--
-**javad1993/javad1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Embedded Systems Engineer with hands-on experience in firmware development, Robotics, low-level driver programming, and hardware/software integration. I’m currently looking for **embedded software or firmware engineering opportunities in Europe or North America**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** C, C++, C#, Python
+- **Platforms:** STM32, TI, AVR, ARM Cortex-M
+- **Tools:** Keil, CubeMX, STM32CubeIDE, VSCode, Visual Studio, Code Composer Studio
+- **Protocols:** UART, SPI, I2C, CAN, Modbus, USB
+
+## 🌍 Looking For
+
+I'm actively seeking opportunities in:
+
+- Embedded firmware engineering
+- AI engineering
+- RTOS-based systems
+- IoT product development
+- Linux-based embedded systems
+
+Ideally in **Europe** or **North America**, but remote is also welcome.
+
+## 📫 Contact
+
+- Email: [j.dehghan1993@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/javad-dehghan/]
+- GitHub: [https://github.com/javad1993]
+
+---
+
+Thank you for visiting my portfolio repo 🙏
