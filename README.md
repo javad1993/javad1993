@@ -7,7 +7,7 @@ I'm an Embedded Systems Engineer with hands-on experience in firmware developmen
 - **Languages:** C, C++, C#, Python
 - **Platforms:** STM32, TI, AVR, ARM Cortex-M
 - **Tools:** Keil, CubeMX, STM32CubeIDE, VSCode, Visual Studio, Code Composer Studio
-- **Protocols:** UART, SPI, I2C, CAN, Modbus, USB
+- **Protocols:** UART, SPI, I2C, CAN, Modbus, USB, ...
 
 ## 🌍 Looking For
 
